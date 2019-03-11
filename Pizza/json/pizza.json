@@ -1,0 +1,20 @@
+[
+	{
+		"src": "img/capricioasa.png",
+		"name": "Capricioasa",
+		"price": [80, "MDL "],
+		"description": "Pomodori pelati, mozzarella, şuncă, salam, ciuperci, ardei gras."
+	},
+	{
+		"src": "img/rancho.png",
+		"name": "Rancho",
+		"price": [80, "MDL "],
+		"description": "Sos Pomodori pelati, mozzarella, bacon, salam, ardei gras, roşii."
+	},
+	{
+		"src": "img/diablo.png",
+		"name": "Diablo",
+		"price": [80, "MDL "],
+		"description": "Sos Pomodori pelati, mozzarella, salam, cabanos, măsline."
+	}
+]
